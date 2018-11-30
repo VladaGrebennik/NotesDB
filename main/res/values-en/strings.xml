@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NotesDBApplication</string>
+    <string name="All_Notes">All Notes</string>
+    <string name="save">Save</string>
+    <string name="add_photo">Add image</string>
+    <string name="editBtn">Edit</string>
+    <string name="edit_photo">Edit Image</string>
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="title">Title</string>
+    <string name="text">Text</string>
+    <string name="n_imp">Not important</string>
+    <string name="imp">Important</string>
+    <string name="very_imp">Very Important</string>
+    <string name="filter">Filter</string>
+    <string name="main">Main</string>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/app_bar_search"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="search"
+        app:actionViewClass="android.support.v7.widget.SearchView"
+        app:showAsAction="always|collapseActionView" />
+    <item
+        android:id="@+id/add_settings"
+        android:orderInCategory="1"
+        android:title="@string/add" />
+    <item
+        android:id="@+id/filter_settings"
+        android:orderInCategory="2"
+        android:title="@string/filter">
+        <menu>
+            <item android:id="@+id/menu_imp_n"
+                android:title="@string/n_imp" />
+            <item android:id="@+id/menu_imp_i"
+                android:title="@string/imp" />
+            <item android:id="@+id/menu_imp_v"
+                android:title="@string/very_imp" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/allNotes"
+        android:orderInCategory="3"
+        android:title="@string/All_Notes" />
+</menu>

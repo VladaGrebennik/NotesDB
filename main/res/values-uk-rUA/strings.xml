@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Нотатки</string>
+    <string name="save">Додати</string>
+    <string name="add_photo">Додати зображеня</string>
+    <string name="editBtn">Редагувати</string>
+    <string name="edit_photo">Ред. зображення</string>
+    <string name="add">Додати</string>
+    <string name="delete">Видалити</string>
+    <string name="edit">Редагувати</string>
+    <string name="title">Назва</string>
+    <string name="text">Текст</string>
+    <string name="n_imp">Не важливо</string>
+    <string name="imp">Важливо</string>
+    <string name="very_imp">Не важливо</string>
+    <string name="filter">Фільтр</string>
+    <string name="main">Головна</string>
+</resources>
